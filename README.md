@@ -48,5 +48,4 @@ Data preprocessing plays a crucial role to ensure the accuracy and reliability o
 - Tools: Jupyter Notebook.
 - Concepts: EDA, Data Cleansing, Dealing with outliers and missing values, Model training, Hyper-parameter Tuning
 
- 
-https://github.com/AkhilKaundinya/Tweeter-Sentiment-Analysis/blob/main/Final_project_v1.ipynb
+ https://github.com/AkhilKaundinya/Tweeter-Sentiment-Analysis/blob/main/Final_project.ipynb
