@@ -49,7 +49,4 @@ Data preprocessing plays a crucial role to ensure the accuracy and reliability o
 - Concepts: EDA, Data Cleansing, Dealing with outliers and missing values, Model training, Hyper-parameter Tuning
 
  
-
-https://github.com/TusharPagadalaAshok/Data-Science-Projects/blob/master/Uber%20suppy%20demand%20gap/Uber%20Case%20Study%20Tushar%20Pagadala.ipynb
-
- 
+https://github.com/AkhilKaundinya/Tweeter-Sentiment-Analysis/blob/main/Final_project_v1.ipynb.ipynb
